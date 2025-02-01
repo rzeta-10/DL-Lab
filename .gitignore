@@ -1,2 +1,4 @@
 *.pdf
 slides/
+tutorials/
+.vscode/settings.json
